@@ -2,7 +2,7 @@ package CriandoClasseOO;
 
 public class Aluno {
 
-    String nome;
+    public String nome;
     int idade;
     String dataNascimento;
     String registroGeral;
